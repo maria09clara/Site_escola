@@ -16,6 +16,8 @@ body {
 
 .principal{
     background-image: url("img/img 2 .jpeg");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 .container {
     
